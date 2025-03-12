@@ -2,6 +2,8 @@ package practice_Java_DSA;
 
 public class Week6_recursion02 {
 	public static void main(String[] args) {
+
+		//o/p = 5,4,3,2,1
 		
 		int s = 5 ;
 		fun(s);
